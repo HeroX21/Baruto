@@ -1,6 +1,6 @@
 # SEE THE WEB SITE
 
-CLICK THE LINK - https://baruto.vercel.app/ 
+CLICK THE LINK - https://baruto.vercel.app/
 
 # Getting Started with Create React App
 
